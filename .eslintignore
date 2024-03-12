@@ -1,0 +1,12 @@
+.vscode
+node_modules
+public
+.editorconfig
+.env*
+.git*
+Dockerfile
+package*
+postcss.config.cjs
+README.md
+tailwind.config.*
+vite.config.js

@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    "vue.volar",
+    "dbaeumer.vscode-eslint",
+    "mikestead.dotenv",
+    "vue.vscode-typescript-vue-plugin",
+    "steoates.autoimport",
+    "hediet.vscode-drawio",
+    "dineug.vuerd-vscode",
+    "ms-vscode.vscode-typescript-next",
+    "takumii.markdowntable",
+    "shd101wyy.markdown-preview-enhanced",
+    "shuworks.vscode-table-formatter",
+    "bradlc.vscode-tailwindcss",
+    "editorconfig.editorconfig"
+  ]
+}
